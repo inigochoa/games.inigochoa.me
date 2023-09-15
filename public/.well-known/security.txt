@@ -1,0 +1,5 @@
+Contact: https://github.com/inigochoa/games.inigochoa.me
+Expires: 2050-12-31T22:59:00.000Z
+Acknowledgments: https://github.com/inigochoa/games.inigochoa.me
+Preferred-Languages: en
+Policy: https://github.com/inigochoa/games.inigochoa.me/blob/main/CONTRIBUTING.md
